@@ -18,3 +18,5 @@ https://www.youtube.com/watch?v=Tq4DtROoLJo
 http://www.explainingcomputers.com/rasp_pi_robotics.html
 
 https://www.youtube.com/playlist?list=PLTsB4OJ2sblP4qRDJA9awEQhSbuOScD17
+
+servo - https://www.youtube.com/watch?v=ddlDgUymbxc
