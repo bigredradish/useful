@@ -9,3 +9,5 @@ https://www.makeuseof.com/tag/how-to-build-a-raspberry-pi-twitter-bot/
 https://www.raspberrypi.org/documentation/usage/camera/raspicam/raspistill.md
 
 http://gpiozero.readthedocs.io/en/v1.4.0/installing.html
+
+https://discussion.dreamhost.com/t/how-to-post-content-to-wordpress-using-python-and-rest-api/65166
