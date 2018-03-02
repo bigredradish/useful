@@ -18,8 +18,8 @@ def hex_to_rgb(col_hex):
     return bytearray.fromhex(col_hex)
 
 while True:
-    r = requests.get("http://bigredradish.com/sandbox/colour/api/", timeout=2)
-    r, g, b = hex_to_rgb(r.json()["field2"])
+    r = requests.get("http://bigredradish.com/sandbox/colour/api/?key=ff027210be06794ee598b8847490b9ae89c44db0", timeout=2)
+    r, g, b = hex_to_rgb(r.json()["hex"])
 
     for i in range(blinkt.NUM_PIXELS):
         blinkt.set_pixel(i, r, g, b)
